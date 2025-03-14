@@ -3,7 +3,7 @@ package string;
 import java.util.Scanner;
 
 public class Solution1 {
-
+ 
     public static void main(String[] args) {
         /*
         입력: Computercooler

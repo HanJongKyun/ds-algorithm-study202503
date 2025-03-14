@@ -24,6 +24,7 @@ public class Solution3 {
             }
         }
 
+
         String newStr = String.valueOf(arr);
         System.out.println(newStr);
 
